@@ -58,7 +58,7 @@ fraud-detection-analytics-dashboard/
 
 Add a screenshot of the completed Power BI dashboard here.
 
-![Fraud Detection Dashboard]([screenshots/dashboard.png](https://github.com/KHUAHI-JAISWAL/fraud-detection-analytics-dashboard/blob/main/dashboard.png))
+https://github.com/KHUAHI-JAISWAL/fraud-detection-analytics-dashboard/blob/main/dashboard.png
 
 ## How to Explore
 
